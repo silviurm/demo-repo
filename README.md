@@ -10,4 +10,3 @@ text 2
 ## Local secondary
 
 Start by watching the tutorial
-End the tutorial
